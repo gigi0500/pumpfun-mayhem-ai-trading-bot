@@ -63,7 +63,7 @@ Native integration with Raydium DEX provides:
 ```bash
 git clone https://github.com/gigi0500/pumpfun-mayhem-ai-trading-bot.git
 cd pumpfun-mayhem-ai-trading-bot
-npm install  # or pip install -r requirements.txt
+npm install
 ```
 
 ## Configuration
@@ -77,7 +77,7 @@ npm install  # or pip install -r requirements.txt
 ## Usage
 
 ```bash
-npm start  # or python main.py
+npm start
 ```
 
 ## Performance Metrics
