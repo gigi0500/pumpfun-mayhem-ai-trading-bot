@@ -5,6 +5,13 @@
 
 An advanced AI-powered trading bot designed for PumpFun token trading on Solana. This bot leverages machine learning algorithms to identify profitable trading opportunities, analyze market patterns, and execute trades automatically with intelligent risk management.
 
+## Sample Transaction
+
+- [Sample TX 1](https://solscan.io/tx/3MNks2vVteeYc8myYqg4U94Bsq51YbpDRjyipg5EtK4nJ3Hazq3P2WyfGr3boMCtuJUxUfoYroYL1P4ZYWfhTdNd)
+- [Sample TX 2](https://solscan.io/tx/5sgDeVqvyAbRHpzuiTRyhyhhAQV1FMJDzc9a4poFJkHfJv1uyZ7wZmoXgC19s5ZkHESbr5UxEXwJ1VGh9C5HFGBq)
+- [Sample TX 3](https://solscan.io/tx/5KEpE5PhPeUvRx3tX6U3dKC98BXud6XfWZ4bJKeyDA5XZyGTgHpemAejtNRbs2mta2Egi3KJrT5WsvLbu2NP2TVZ)
+- [Sample TX 4](https://solscan.io/tx/4xgM3HYYSWawWKf7W12QpEQVWRvZsKu9VWbJ3AS5DSYXHEVDrYq9FQTbNoGLnTbfpdR7m48yhRoXfHRz6JeKk91r)
+
 ## Features
 
 - **AI-Powered Analysis**: Advanced pattern recognition and market sentiment analysis
@@ -72,13 +79,6 @@ npm install  # or pip install -r requirements.txt
 ```bash
 npm start  # or python main.py
 ```
-
-## Sample Transaction
-
-- [Sample TX 1](https://solscan.io/tx/3MNks2vVteeYc8myYqg4U94Bsq51YbpDRjyipg5EtK4nJ3Hazq3P2WyfGr3boMCtuJUxUfoYroYL1P4ZYWfhTdNd)
-- [Sample TX 2](https://solscan.io/tx/5sgDeVqvyAbRHpzuiTRyhyhhAQV1FMJDzc9a4poFJkHfJv1uyZ7wZmoXgC19s5ZkHESbr5UxEXwJ1VGh9C5HFGBq)
-- [Sample TX 3](https://solscan.io/tx/5KEpE5PhPeUvRx3tX6U3dKC98BXud6XfWZ4bJKeyDA5XZyGTgHpemAejtNRbs2mta2Egi3KJrT5WsvLbu2NP2TVZ)
-- [Sample TX 4](https://solscan.io/tx/4xgM3HYYSWawWKf7W12QpEQVWRvZsKu9VWbJ3AS5DSYXHEVDrYq9FQTbNoGLnTbfpdR7m48yhRoXfHRz6JeKk91r)
 
 ## Performance Metrics
 
