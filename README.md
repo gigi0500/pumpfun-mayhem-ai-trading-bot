@@ -53,7 +53,7 @@ Native integration with Raydium DEX provides:
 
 ## Requirements
 
-- Node.js 18+ or Python 3.10+
+- Node.js 20+
 - Solana wallet with sufficient SOL balance
 - RPC endpoint (public or private)
 - API keys (if required)
